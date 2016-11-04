@@ -1,3 +1,3 @@
 <?php
 
-echo "Olá cloud"!;
+echo "Olá cloud!,agora vai";
